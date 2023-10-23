@@ -1,0 +1,7 @@
+,Nome,Idade,País,COVID,Vacina,Prioridade
+0,Alice,25,Brasil,Tem COVID,Não pode tomar vacina,Não pode tomar vacina
+1,Bob,30,Inglaterra,Não tem COVID,Precisa tomar vacina,Baixa prioridade
+2,Charlie,22,Estados Unidos,Não tem COVID,Precisa tomar vacina,Baixa prioridade
+3,Lucca,22,Itália,Tem COVID,Não pode tomar vacina,Não pode tomar vacina
+4,Ana,38,Austrália,Não tem COVID,Precisa tomar vacina,Alta prioridade
+5,Fernanda,35,México,Não tem COVID,Precisa tomar vacina,Alta prioridade
